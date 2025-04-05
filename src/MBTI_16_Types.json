@@ -1,0 +1,370 @@
+[
+  {
+    "type": "ISTJ",
+    "nickname": "The Logistician",
+    "personality_traits": [
+      "Responsible, reserved, and practical.",
+      "Detail-oriented and highly dependable.",
+      "Prefer order, tradition, and rules.",
+      "Methodical in their work and decision-making.",
+      "Value honesty, integrity, and loyalty."
+    ],
+    "career_path": [
+      "Thrive in structured environments with clear expectations.",
+      "Prefer roles with concrete results and measurable goals.",
+      "Excel in administration, accounting, and law enforcement.",
+      "Common fields: Auditor, Military Officer, Lawyer, Police Officer, Accountant, Data Analyst."
+    ],
+    "personal_growth": [
+      "Practice openness to new ideas and perspectives.",
+      "Develop emotional awareness and communication.",
+      "Learn flexibility when plans don’t go as expected.",
+      "Balance work with relaxation and self-care."
+    ]
+  },
+  {
+    "type": "ISTP",
+    "nickname": "The Virtuoso",
+    "personality_traits": [
+      "Independent, analytical, and hands-on.",
+      "Love problem-solving through experimentation.",
+      "Reserved but adaptable and spontaneous.",
+      "Highly logical with a knack for mechanics and tools.",
+      "Live in the moment and enjoy autonomy."
+    ],
+    "career_path": [
+      "Prefer careers involving tools, machinery, and real-time problem-solving.",
+      "Thrive in environments where they can work independently.",
+      "Drawn to engineering, aviation, mechanics, and emergency response.",
+      "Common fields: Engineer, Pilot, Mechanic, EMT, Software Developer, Carpenter."
+    ],
+    "personal_growth": [
+      "Engage in open communication and emotional expression.",
+      "Develop long-term planning skills.",
+      "Learn to ask for help and accept collaboration.",
+      "Balance independence with relationship commitment."
+    ]
+  },
+  {
+    "type": "ISFJ",
+    "nickname": "The Defender",
+    "personality_traits": [
+      "Loyal, gentle, and detail-oriented.",
+      "Protective and nurturing of others.",
+      "Value traditions and practicality.",
+      "Reliable and selfless in their actions.",
+      "Quietly strong with a deep sense of duty."
+    ],
+    "career_path": [
+      "Thrive in roles that involve caring and supporting others.",
+      "Prefer stable, quiet environments with clear tasks.",
+      "Excel in healthcare, education, and administration.",
+      "Common fields: Nurse, Librarian, Elementary Teacher, Office Manager, Therapist, Archivist."
+    ],
+    "personal_growth": [
+      "Practice saying no and setting boundaries.",
+      "Value your own needs as much as others'.",
+      "Express feelings openly instead of bottling them up.",
+      "Avoid over-idealizing the past."
+    ]
+  },
+  {
+    "type": "ISFP",
+    "nickname": "The Adventurer",
+    "personality_traits": [
+      "Gentle, sensitive, and artistic.",
+      "Prefer freedom and personal expression.",
+      "Spontaneous and live in the moment.",
+      "Private but warm once trust is built.",
+      "Driven by values and inner authenticity."
+    ],
+    "career_path": [
+      "Excel in creative, flexible roles with independence.",
+      "Prefer non-competitive environments.",
+      "Drawn to design, art, service, and nature.",
+      "Common fields: Artist, Chef, Fashion Designer, Photographer, Veterinarian, Social Worker."
+    ],
+    "personal_growth": [
+      "Build structure and follow-through on commitments.",
+      "Speak up for your needs and ideas.",
+      "Balance spontaneity with long-term goals.",
+      "Avoid avoiding conflict at all costs."
+    ]
+  },
+  {
+    "type": "INTJ",
+    "nickname": "The Architect",
+    "personality_traits": [
+      "Strategic, insightful, and highly independent.",
+      "Love mastering complex systems and theories.",
+      "Big-picture thinkers with strong ambition.",
+      "Private, analytical, and confident in their vision.",
+      "Often perfectionistic and future-focused."
+    ],
+    "career_path": [
+      "Thrive in careers requiring vision, analysis, and independence.",
+      "Drawn to science, technology, engineering, and strategic leadership.",
+      "Prefer structured settings with intellectual autonomy.",
+      "Common fields: Scientist, Engineer, Strategist, Professor, Software Architect, CEO."
+    ],
+    "personal_growth": [
+      "Practice emotional openness and connection.",
+      "Avoid becoming overly critical or perfectionistic.",
+      "Seek collaboration and understand emotional intelligence.",
+      "Balance ambition with enjoyment of the present."
+    ]
+  },
+  {
+    "type": "INTP",
+    "nickname": "The Logician",
+    "personality_traits": [
+      "Analytical, curious, and inventive.",
+      "Value logic and internal consistency above all.",
+      "Think deeply and independently.",
+      "Imaginative problem solvers and idea generators.",
+      "Often quiet but intellectually intense."
+    ],
+    "career_path": [
+      "Thrive in analytical, abstract, and research-based careers.",
+      "Prefer low-pressure environments with intellectual freedom.",
+      "Drawn to academia, research, programming, and writing.",
+      "Common fields: Theorist, Mathematician, Software Developer, Philosopher, Scientist, Technical Writer."
+    ],
+    "personal_growth": [
+      "Apply ideas in the real world, not just thought.",
+      "Strengthen social and emotional intelligence.",
+      "Finish projects you start and overcome procrastination.",
+      "Appreciate the value of emotional and subjective viewpoints."
+    ]
+  },
+  {
+    "type": "INFJ",
+    "nickname": "The Advocate",
+    "personality_traits": [
+      "Empathetic, insightful, and idealistic.",
+      "Driven by a strong sense of purpose and values.",
+      "Private yet passionate about helping others.",
+      "Deep thinkers with a vivid inner world.",
+      "Tend to form deep, meaningful connections."
+    ],
+    "career_path": [
+      "Thrive in people-oriented careers with deep impact.",
+      "Prefer quiet, meaningful, and structured environments.",
+      "Excel in counseling, writing, education, and social reform.",
+      "Common fields: Therapist, Counselor, Writer, Psychologist, Life Coach, Social Worker."
+    ],
+    "personal_growth": [
+      "Avoid overthinking and embrace action.",
+      "Practice self-care and avoid burnout from helping others.",
+      "Accept imperfections in self and others.",
+      "Develop openness to routine and structure."
+    ]
+  },
+  {
+    "type": "INFP",
+    "nickname": "The Mediator",
+    "personality_traits": [
+      "Creative, idealistic, and introspective.",
+      "Value authenticity, empathy, and deep meaning.",
+      "Quiet but passionate about causes they believe in.",
+      "Guided by personal values more than external systems.",
+      "Often artistic, imaginative, and emotionally insightful."
+    ],
+    "career_path": [
+      "Prefer careers aligned with personal values and meaning.",
+      "Thrive in roles with flexibility and creative freedom.",
+      "Drawn to arts, writing, counseling, and human development.",
+      "Common fields: Author, Counselor, Graphic Designer, Editor, Musician, Therapist."
+    ],
+    "personal_growth": [
+      "Balance dreams with realistic planning.",
+      "Finish projects instead of chasing perfection.",
+      "Communicate needs openly and assertively.",
+      "Avoid people-pleasing tendencies."
+    ]
+  },
+  {
+    "type": "ESTJ",
+    "nickname": "The Executive",
+    "personality_traits": [
+      "Efficient, organized, and confident.",
+      "Natural leaders who value structure and rules.",
+      "Goal-oriented and decisive decision-makers.",
+      "Practical, grounded, and often traditional.",
+      "Excel at managing people and systems."
+    ],
+    "career_path": [
+      "Thrive in organized, leadership-heavy environments.",
+      "Prefer careers with hierarchy and clear expectations.",
+      "Excel in roles involving planning, supervision, and enforcement.",
+      "Common fields: Executive, Project Manager, Judge, Banker, Military Officer, Principal, Real Estate Agent."
+    ],
+    "personal_growth": [
+      "Develop emotional sensitivity—logic isn’t always enough.",
+      "Listen actively instead of commanding.",
+      "Accept that not everyone works at your pace or standard.",
+      "Balance control with trust in others."
+    ]
+  },
+  {
+    "type": "ESTP",
+    "nickname": "The Entrepreneur",
+    "personality_traits": [
+      "Energetic, action-oriented, and bold.",
+      "Love excitement, spontaneity, and hands-on problem solving.",
+      "Skilled at reading people and adapting in the moment.",
+      "Straightforward communicators and fast decision-makers.",
+      "Thrive under pressure and challenge."
+    ],
+    "career_path": [
+      "Excel in fast-paced, risk-oriented environments.",
+      "Prefer physical or entrepreneurial work that offers variety.",
+      "Natural in roles involving persuasion or crisis response.",
+      "Common fields: Stockbroker, Sales Executive, EMT, Detective, Athlete, Pilot, Entrepreneur."
+    ],
+    "personal_growth": [
+      "Focus on long-term consequences, not just the moment.",
+      "Cultivate patience and emotional depth.",
+      "Learn to pause before reacting.",
+      "Balance thrill-seeking with responsibility."
+    ]
+  },
+  {
+    "type": "ESFJ",
+    "nickname": "The Consul",
+    "personality_traits": [
+      "Warm, sociable, and cooperative.",
+      "Highly attuned to the needs of others.",
+      "Value tradition, loyalty, and harmony.",
+      "Prefer order and structure in their environments.",
+      "Natural caregivers and team players."
+    ],
+    "career_path": [
+      "Thrive in community-focused and people-oriented roles.",
+      "Prefer structured settings with a strong sense of purpose.",
+      "Excel in roles that require interpersonal skills and organization.",
+      "Common fields: Teacher, Nurse, Event Planner, HR Manager, Social Worker, Customer Service Rep, Hospitality Manager."
+    ],
+    "personal_growth": [
+      "Learn to prioritize personal needs alongside others'.",
+      "Practice handling criticism without taking it personally.",
+      "Avoid overextending yourself to keep everyone happy.",
+      "Develop independence from social validation."
+    ]
+  },
+  {
+    "type": "ESFP",
+    "nickname": "The Entertainer",
+    "personality_traits": [
+      "Outgoing, playful, and expressive.",
+      "Live in the moment and love being the center of attention.",
+      "Sensitive to others’ feelings and enjoy spreading joy.",
+      "Energetic and spontaneous, often drawn to new experiences.",
+      "Prefer action and variety over routine."
+    ],
+    "career_path": [
+      "Excel in creative, high-energy roles with social interaction.",
+      "Prefer careers with flexibility and minimal monotony.",
+      "Drawn to entertainment, service, and aesthetic-driven industries.",
+      "Common fields: Actor, Musician, Dancer, Tour Guide, Fashion Stylist, Bartender, Fitness Instructor."
+    ],
+    "personal_growth": [
+      "Practice delaying gratification to meet long-term goals.",
+      "Develop consistency and follow-through.",
+      "Learn to tolerate boredom and routine for growth.",
+      "Create deeper connections beyond surface-level fun."
+    ]
+  },
+  {
+    "type": "ENTJ",
+    "nickname": "The Commander",
+    "personality_traits": [
+      "Assertive, strategic, and natural-born leaders.",
+      "Efficient and goal-driven with a strong will.",
+      "Love challenges and long-term planning.",
+      "Analytical thinkers who enjoy control and structure.",
+      "Often charismatic and persuasive in leadership roles."
+    ],
+    "career_path": [
+      "Excel in high-responsibility, results-focused roles.",
+      "Prefer structured environments with leadership opportunities.",
+      "Thrive in business, law, and management.",
+      "Common fields: CEO, Lawyer, Engineer, Judge, Strategic Consultant, Military Leader, Entrepreneur."
+    ],
+    "personal_growth": [
+      "Develop emotional sensitivity and empathy.",
+      "Listen to others' input instead of always taking charge.",
+      "Avoid overworking and learn to relax.",
+      "Balance ambition with compassion."
+    ]
+  },
+  {
+    "type": "ENTP",
+    "nickname": "The Debater",
+    "personality_traits": [
+      "Inventive, curious, and energetic.",
+      "Quick-witted and love debating ideas.",
+      "Charming, adaptable, and spontaneous.",
+      "Enjoys brainstorming and exploring new possibilities.",
+      "Often challenge norms and authority."
+    ],
+    "career_path": [
+      "Thrive in dynamic, innovation-driven environments.",
+      "Prefer flexibility and idea-generation roles.",
+      "Excel in entrepreneurship, sales, and creative problem-solving.",
+      "Common fields: Start-up Founder, Creative Director, Lawyer, Inventor, Marketer, Talk Show Host, Journalist."
+    ],
+    "personal_growth": [
+      "Learn to finish what you start.",
+      "Be mindful of others' feelings during debates.",
+      "Practice routine and consistency.",
+      "Focus your energy to make lasting impact, not just ideas."
+    ]
+  },
+  {
+    "type": "ENFJ",
+    "nickname": "The Protagonist",
+    "personality_traits": [
+      "Charismatic, empathetic, and inspiring.",
+      "Natural leaders who thrive on helping others.",
+      "Driven by ideals and a desire to make a difference.",
+      "Strong communicators with deep emotional intelligence.",
+      "Highly organized and proactive in relationships."
+    ],
+    "career_path": [
+      "Thrive in collaborative, purpose-driven settings.",
+      "Prefer careers that involve mentoring, guiding, or organizing people.",
+      "Excel in leadership, education, counseling, and human services.",
+      "Common fields: Teacher, Counselor, HR Specialist, Life Coach, Diplomat, Nonprofit Director, Public Speaker."
+    ],
+    "personal_growth": [
+      "Balance others' needs with your own.",
+      "Avoid controlling situations in the name of helping.",
+      "Set healthy emotional boundaries.",
+      "Practice being present instead of always striving."
+    ]
+  },
+  {
+    "type": "ENFP",
+    "nickname": "The Campaigner",
+    "personality_traits": [
+      "Enthusiastic, creative, and free-spirited.",
+      "Highly imaginative with a deep sense of purpose.",
+      "Value authenticity, adventure, and meaningful connection.",
+      "Energetic, spontaneous, and deeply empathetic.",
+      "Easily inspired and eager to inspire others."
+    ],
+    "career_path": [
+      "Thrive in flexible, visionary roles with personal meaning.",
+      "Prefer unstructured environments that allow self-expression.",
+      "Excel in arts, communication, psychology, and innovation.",
+      "Common fields: Writer, Public Relations, Psychologist, Performer, Social Entrepreneur, Motivational Speaker."
+    ],
+    "personal_growth": [
+      "Follow through on your ideas to completion.",
+      "Manage your time and energy to avoid burnout.",
+      "Learn to accept structure without losing creativity.",
+      "Be realistic about commitments and goals."
+    ]
+  }
+]
