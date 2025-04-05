@@ -63,7 +63,7 @@ const goToDashboard = () => {
     navigate("/Dashboard", { state: { mbtiType: getMBTIType() } });
   };
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50 px-6">
+    <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50 px-6  bg-gradient-to-br from-white via-green-50">
       <div className="bg-white p-8 shadow-lg rounded-lg max-w-lg w-full text-center">
         {!showResult ? (
           <>

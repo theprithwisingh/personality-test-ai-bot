@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import "tailwindcss";
+// import "tailwindcss";
 const Home = () => {
   return (
-    <div className="min-h-screen bg-white flex flex-col">
+    <div className="min-h-screen bg-white flex flex-col bg-gradient-to-br from-white via-green-50">
       {/* Navbar */}
       <header className="bg-white shadow-md py-4">
         <div className="container mx-auto flex justify-between items-center px-6">
